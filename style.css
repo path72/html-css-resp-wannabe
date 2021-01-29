@@ -122,7 +122,7 @@ img {
   #steps .row>.left,
   #steps .row>.central,
   #steps .row>.right {
-    float: none;
+    float: none; /* non era necessario */
     width: 100%;
     padding: 0 5px;
     margin-bottom: 15px;
